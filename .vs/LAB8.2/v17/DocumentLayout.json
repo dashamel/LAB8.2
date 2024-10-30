@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source\\repos\\Student\\LAB8.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16EDE4F5-9D55-4CDC-8E86-99E8AC3B1640}|..\\UnitTestLAB8.2\\UnitTestLAB8.2.vcxproj|D:\\source\\repos\\Student\\UnitTestLAB8.2\\UnitTestLAB8.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A1277A-9527-4419-A8F2-82CF81D3C7C2}|LAB8.2.vcxproj|D:\\source\\repos\\Student\\LAB8.2\\8.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71A1277A-9527-4419-A8F2-82CF81D3C7C2}|LAB8.2.vcxproj|solutionrelative:8.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTestLAB8.2.cpp",
+              "DocumentMoniker": "D:\\source\\repos\\Student\\UnitTestLAB8.2\\UnitTestLAB8.2.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTestLAB8.2\\UnitTestLAB8.2.cpp",
+              "ToolTip": "D:\\source\\repos\\Student\\UnitTestLAB8.2\\UnitTestLAB8.2.cpp",
+              "RelativeToolTip": "..\\UnitTestLAB8.2\\UnitTestLAB8.2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T13:13:10.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "8.2.cpp",
+              "DocumentMoniker": "D:\\source\\repos\\Student\\LAB8.2\\8.2.cpp",
+              "RelativeDocumentMoniker": "8.2.cpp",
+              "ToolTip": "D:\\source\\repos\\Student\\LAB8.2\\8.2.cpp",
+              "RelativeToolTip": "8.2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T18:59:03.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
